@@ -1,0 +1,10 @@
+{
+  "cloudflare": {
+    "apitoken": "....",
+    "accountid": "...."
+  },
+  "namecheap": {
+    "apiuser": "example",
+    "apikey": "...."
+  }
+}
