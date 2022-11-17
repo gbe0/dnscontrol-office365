@@ -1,9 +1,9 @@
 // Registrars
-var REG_NONE = NewRegistrar("none", "NONE");
-var REG_NAMECHEAP = NewRegistrar("namecheap", "NAMECHEAP");
+var REG_NONE = NewRegistrar("none");
+var REG_NAMECHEAP = NewRegistrar("namecheap");
 
 // DNS providers
-var DNS_CLOUDFLARE = NewDnsProvider("cloudflare", "CLOUDFLAREAPI");
+var DNS_CLOUDFLARE = NewDnsProvider("cloudflare");
 
 // CloudFlare macros
 var CF_PROXY_ON = { cloudflare_proxy: "on" };

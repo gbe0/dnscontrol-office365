@@ -1,10 +1,12 @@
 {
   "cloudflare": {
     "apitoken": "....",
-    "accountid": "...."
+    "accountid": "....",
+    "TYPE": "CLOUDFLAREAPI"
   },
   "namecheap": {
     "apiuser": "example",
-    "apikey": "...."
+    "apikey": "....",
+    "TYPE": "NAMECHEAP"
   }
 }
